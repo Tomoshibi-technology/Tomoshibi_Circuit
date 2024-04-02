@@ -6002,7 +6002,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 476b7a9b-f5bb-46a4-ace1-560606b7b0b0)
   )
-  (polyline (pts (xy 322.58 281.94) (xy 378.46 281.94))
+  (polyline (pts (xy 322.58 281.94) (xy 375.92 281.94))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 476c5e9e-76aa-4954-a8e3-9d49609dd90a)
   )
