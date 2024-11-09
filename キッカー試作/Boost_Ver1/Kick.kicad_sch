@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid a8dff442-83d5-4b2f-9e1f-1bf87902c529)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "積セラの耐圧に気を付けよう" (at 99.06 22.86 0)
+    (effects (font (size 5.56 5.56)) (justify left bottom))
+    (uuid 1a7ff021-4432-45f7-aada-1ea6da205212)
+  )
+)
