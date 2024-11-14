@@ -751,7 +751,7 @@
     (property "Value" "SW_SPDT" (at 132.08 142.24 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MyLibrary:SW_Slide_DPDT_SSAJ120100" (at 142.24 137.16 0)
+    (property "Footprint" "MyLibrary:SW_Slide_SPDT_SSAJ120100" (at 142.24 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 142.24 137.16 0)
